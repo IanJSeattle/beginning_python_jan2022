@@ -1,6 +1,6 @@
 1. In the Python interpreter, create a new list containing the strings
 'a', 'b', and 'c', using square brackets, and assign it to a variable.
-Run type() on the variable, and confirm that it returns <class 'str'>.
+Run type() on the variable, and confirm that it returns <class 'list'>.
 Use the print() function to print out the whole list.
 
 
@@ -14,7 +14,8 @@ X.  Remember that list elements start at zero, not one.
 foods, and one you don't care about.  Use the print() function to print
 out, "My favorite foods are {}", using .format() to replace the {} with
 your list.  Now change the food that's not your favorite to one that
-is, by reassigning that element in the list.
+is, by reassigning that element in the list.  Run the print statement
+again to show that the list has been changed.
 
 
 4. Add a new favorite food to your list of favorites by using the

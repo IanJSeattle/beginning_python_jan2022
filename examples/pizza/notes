@@ -1,0 +1,6 @@
+this will be a program that allows a cashier to take a customer's order
+at a pizza restaurant.  once that order is assembled, it prints out the
+order for the kitchen to work on.
+
+we will not pay any attention to making it pretty or fault-tolerant,
+just try to get the basic functionality down.
